@@ -49,7 +49,7 @@ Besides reaching high efficiency, a k-value higher than 20 resulted in a detrime
 
 
 ### Conclusion
-After the testing and analysis of the results many interesting concepts became clear about statistics and data sampling. Still, it is worth it noting that the results obtained would be much more exaggerated and clear if the data set had more individuals and features analyzed.
+After the testing and analysis of the results many interesting concepts became clear about statistics and data sampling. Still, it is worth noting that the results obtained would be much more exaggerated and clear if the data set had more individuals and features analyzed.
 
 In sum, the most significant changes in results resulted from the optimization of the k-value and the z-score standardization of the features.
 
