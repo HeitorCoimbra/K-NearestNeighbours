@@ -14,7 +14,7 @@ In this specific case, the metric I chose was the Euclidian Distance, that is, c
 
 ![Euclidian Distance formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/795b967db2917cdde7c2da2d1ee327eb673276c0)
 
-*Euclidian Distance formula. _From [Wikipedia](https://en.wikipedia.org/wiki/Euclidean_distance)_.*
+*Euclidian Distance formula. _From [Wikipedia](https://en.wikipedia.org/wiki/Euclidean_distance)_ .*
 
 It is important to note that each feature of the data set is represented in different measurement systems and units, so the standardization of the data is of great importance to refine the classification.
 
