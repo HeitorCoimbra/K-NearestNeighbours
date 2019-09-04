@@ -36,7 +36,7 @@ K-values between (7-11) had the highest recall with little detriment in precisio
 
 #### *The Bad...*
 
-Way too low k-values ended up with results that are not terrible, but definitely not good enough for such a serious matter. Lower precision and accuracy than other k-values were the major negative point.
+Way too low k-values ended up with results that are not terrible, but definitely not good enough. Besides a low k-value leading to overfitting beacuse of the Bias-Variance tradeoff, it lead to lower precision and accuracy that were the major negative point.
 
 ![Low K](https://i.imgur.com/ZlG0pGb.png)
 
