@@ -1,4 +1,3 @@
-### K-Nearest_Neighbours
 # K-Nearest Neighbours implemented onto the Wisconsin Breast Cancer UCI Data Set
 
 ## Introduction
